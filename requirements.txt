@@ -1,0 +1,13 @@
+Django==1.9.6
+django-debug-toolbar==1.4
+django-redis==4.4.2
+django-redis-cache==1.6.5
+python-dateutil==2.5.3
+pytz==2016.4
+redis==2.10.5
+six==1.10.0
+sqlparse==0.1.19
+texttable==0.8.4
+virtualenv==13.1.2
+xlrd==0.9.4
+xlwt==1.0.0
