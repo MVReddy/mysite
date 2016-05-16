@@ -1,0 +1,8 @@
+{% if data %}
+	<h1>Reporters Information</h1>
+	{% for item, value in data.items%}
+		{{item}}: {{value}}
+	{% endfor %}
+{% else %}
+	No data found
+{% endif %}
